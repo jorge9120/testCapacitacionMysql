@@ -61,7 +61,7 @@ class TestCapacitacionMysqlApplicationTests {
 	void contextLoads() {
 		//ctrl.guardarAtualizar(null);}
 		// Se instancia el objeto global
-	UserDto  dto = UserDto.builder().nombre("jorge sanchez").correo("jorge@gmail.com").edad(19).build();
+	//UserDto  dto = UserDto.builder().nombre("jorge sanchez").correo("jorge@gmail.com").edad(19).build();
 		
 	}
 	@Test
@@ -96,24 +96,25 @@ class TestCapacitacionMysqlApplicationTests {
 		// GIVEN
 		UserEntity entityResponse = UserEntity.builder().id(id).nombre("nuevojuan2").edad(25).correo("nuevojuan@email2.com").build();
 		UserEntity entityResponseBD = UserEntity.builder().id(id).nombre("nuevojuan").edad(18).correo("nuevojuan@email.com").build();
-		dto = UserDto.builder().nombre("nuevojuan2").correo("jorge@gmail.com").edad(30).build();
+		dto = UserDto.builder().nombre("nuevojuan3").correo("jorge@gmail.com").edad(30).build();
 		
 		
 		when(userRepo.save(any(UserEntity.class))).thenReturn(entityResponse);
 		when(userRepo.findById(any(Integer.class))).thenReturn(Optional.of(entityResponseBD));
-		
 		// WHEN
 		MvcResult jsonResponse = getResultPut(dto, id);
 		String userJson = jsonResponse.getResponse().getContentAsString();
 		UserEntity entity = mapper.readValue(userJson, UserEntity.class);
+		System.out.println(dto.getEdad()+"===="+entityResponseBD.getEdad());
 
 		// THEN		
-		// validando lo que hay en BD
-		assertNotNull(entityResponseBD);				// valida que la rta de la consulta a BD sea diferente de null
-		assertFalse(entityResponseBD.getEdad()>=25);		// valida que la edad en BD no sea mayor a 25
 		
-		//assertNotEquals(dto.getNombre(), entityResponseBD.getNombre());	
-		//assertNotEquals(dto.getEdad(),  entityResponseBD.getEdad());	
+		assertNotNull(entityResponseBD);				
+		assertFalse(entityResponseBD.getEdad()>=25);		
+		
+		assertNotEquals("hola","hola2");	
+		//assertNotEquals(user.getName(), entityResponseBD.getName());	
+		assertNotEquals(dto.getEdad(),  entityResponseBD.getEdad());	
 						
 				
 	}

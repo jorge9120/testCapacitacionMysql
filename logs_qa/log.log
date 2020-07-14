@@ -6614,3 +6614,243 @@ Identify and stop the process that's listening on port 8080 or configure this ap
 				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT02_UpdateUserSuccess_AgeBD_menor_25 - user_UT02_UpdateUserSuccess_ReturnERROR_User
 13-07-2020 19:31:21.659 [SpringContextShutdownHook] INFO 
 				o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:38:21.418 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarting - Starting TestCapacitacionMysqlApplicationTests on PSLT3182 with PID 17520 (started by jasanchez in C:\Users\jasanchez\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\testCapacitacionMysql)
+13-07-2020 19:38:21.421 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStartupProfileInfo - The following profiles are active: qa
+13-07-2020 19:38:24.632 [main] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:38:25.303 [main] INFO 
+				o.s.b.t.m.w.SpringBootMockServletContext.log - Initializing Spring TestDispatcherServlet ''
+13-07-2020 19:38:25.303 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Initializing Servlet ''
+13-07-2020 19:38:25.332 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Completed initialization in 28 ms
+13-07-2020 19:38:25.398 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarted - Started TestCapacitacionMysqlApplicationTests in 5.582 seconds (JVM running for 7.977)
+13-07-2020 19:38:25.443 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT01_CreateUserSuccess_ReturnOkAndAnUser - User_UT01_CreateUserSuccess_ReturnOkAndAnUse
+13-07-2020 19:38:26.020 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT02_UpdateUserSuccess_AgeBD_menor_25 - user_UT02_UpdateUserSuccess_ReturnERROR_User
+13-07-2020 19:38:26.058 [SpringContextShutdownHook] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:38:42.356 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarting - Starting TestCapacitacionMysqlApplicationTests on PSLT3182 with PID 19072 (started by jasanchez in C:\Users\jasanchez\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\testCapacitacionMysql)
+13-07-2020 19:38:42.358 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStartupProfileInfo - The following profiles are active: qa
+13-07-2020 19:38:45.546 [main] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:38:46.216 [main] INFO 
+				o.s.b.t.m.w.SpringBootMockServletContext.log - Initializing Spring TestDispatcherServlet ''
+13-07-2020 19:38:46.216 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Initializing Servlet ''
+13-07-2020 19:38:46.239 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Completed initialization in 23 ms
+13-07-2020 19:38:46.301 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarted - Started TestCapacitacionMysqlApplicationTests in 5.331 seconds (JVM running for 7.989)
+13-07-2020 19:38:46.351 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT01_CreateUserSuccess_ReturnOkAndAnUser - User_UT01_CreateUserSuccess_ReturnOkAndAnUse
+13-07-2020 19:38:47.080 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT02_UpdateUserSuccess_AgeBD_menor_25 - user_UT02_UpdateUserSuccess_ReturnERROR_User
+13-07-2020 19:38:47.144 [SpringContextShutdownHook] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:39:13.372 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarting - Starting TestCapacitacionMysqlApplicationTests on PSLT3182 with PID 4660 (started by jasanchez in C:\Users\jasanchez\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\testCapacitacionMysql)
+13-07-2020 19:39:13.377 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStartupProfileInfo - The following profiles are active: qa
+13-07-2020 19:39:18.238 [main] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:39:18.891 [main] INFO 
+				o.s.b.t.m.w.SpringBootMockServletContext.log - Initializing Spring TestDispatcherServlet ''
+13-07-2020 19:39:18.891 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Initializing Servlet ''
+13-07-2020 19:39:18.929 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Completed initialization in 37 ms
+13-07-2020 19:39:19.006 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarted - Started TestCapacitacionMysqlApplicationTests in 8.125 seconds (JVM running for 13.712)
+13-07-2020 19:39:19.124 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT01_CreateUserSuccess_ReturnOkAndAnUser - User_UT01_CreateUserSuccess_ReturnOkAndAnUse
+13-07-2020 19:39:20.038 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT02_UpdateUserSuccess_AgeBD_menor_25 - user_UT02_UpdateUserSuccess_ReturnERROR_User
+13-07-2020 19:39:20.155 [SpringContextShutdownHook] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:40:15.882 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarting - Starting TestCapacitacionMysqlApplicationTests on PSLT3182 with PID 13248 (started by jasanchez in C:\Users\jasanchez\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\testCapacitacionMysql)
+13-07-2020 19:40:15.888 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStartupProfileInfo - The following profiles are active: qa
+13-07-2020 19:40:18.961 [main] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:40:19.510 [main] INFO 
+				o.s.b.t.m.w.SpringBootMockServletContext.log - Initializing Spring TestDispatcherServlet ''
+13-07-2020 19:40:19.511 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Initializing Servlet ''
+13-07-2020 19:40:19.552 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Completed initialization in 41 ms
+13-07-2020 19:40:19.660 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarted - Started TestCapacitacionMysqlApplicationTests in 5.29 seconds (JVM running for 7.667)
+13-07-2020 19:40:19.750 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT01_CreateUserSuccess_ReturnOkAndAnUser - User_UT01_CreateUserSuccess_ReturnOkAndAnUse
+13-07-2020 19:40:20.376 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT02_UpdateUserSuccess_AgeBD_menor_25 - user_UT02_UpdateUserSuccess_ReturnERROR_User
+13-07-2020 19:40:20.432 [SpringContextShutdownHook] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:41:03.424 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarting - Starting TestCapacitacionMysqlApplicationTests on PSLT3182 with PID 13348 (started by jasanchez in C:\Users\jasanchez\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\testCapacitacionMysql)
+13-07-2020 19:41:03.429 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStartupProfileInfo - The following profiles are active: qa
+13-07-2020 19:41:06.527 [main] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:41:07.129 [main] INFO 
+				o.s.b.t.m.w.SpringBootMockServletContext.log - Initializing Spring TestDispatcherServlet ''
+13-07-2020 19:41:07.130 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Initializing Servlet ''
+13-07-2020 19:41:07.158 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Completed initialization in 28 ms
+13-07-2020 19:41:07.242 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarted - Started TestCapacitacionMysqlApplicationTests in 5.334 seconds (JVM running for 7.833)
+13-07-2020 19:41:07.277 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT01_CreateUserSuccess_ReturnOkAndAnUser - User_UT01_CreateUserSuccess_ReturnOkAndAnUse
+13-07-2020 19:41:07.940 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT02_UpdateUserSuccess_AgeBD_menor_25 - user_UT02_UpdateUserSuccess_ReturnERROR_User
+13-07-2020 19:41:07.986 [SpringContextShutdownHook] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:41:41.327 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarting - Starting TestCapacitacionMysqlApplicationTests on PSLT3182 with PID 1780 (started by jasanchez in C:\Users\jasanchez\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\testCapacitacionMysql)
+13-07-2020 19:41:41.331 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStartupProfileInfo - The following profiles are active: qa
+13-07-2020 19:41:44.437 [main] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:41:44.952 [main] INFO 
+				o.s.b.t.m.w.SpringBootMockServletContext.log - Initializing Spring TestDispatcherServlet ''
+13-07-2020 19:41:44.952 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Initializing Servlet ''
+13-07-2020 19:41:44.977 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Completed initialization in 24 ms
+13-07-2020 19:41:45.043 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarted - Started TestCapacitacionMysqlApplicationTests in 5.518 seconds (JVM running for 7.998)
+13-07-2020 19:41:45.102 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT01_CreateUserSuccess_ReturnOkAndAnUser - User_UT01_CreateUserSuccess_ReturnOkAndAnUse
+13-07-2020 19:41:45.794 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT02_UpdateUserSuccess_AgeBD_menor_25 - user_UT02_UpdateUserSuccess_ReturnERROR_User
+13-07-2020 19:41:45.838 [SpringContextShutdownHook] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:43:19.331 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarting - Starting TestCapacitacionMysqlApplicationTests on PSLT3182 with PID 15312 (started by jasanchez in C:\Users\jasanchez\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\testCapacitacionMysql)
+13-07-2020 19:43:19.336 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStartupProfileInfo - The following profiles are active: qa
+13-07-2020 19:43:22.557 [main] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:43:23.424 [main] INFO 
+				o.s.b.t.m.w.SpringBootMockServletContext.log - Initializing Spring TestDispatcherServlet ''
+13-07-2020 19:43:23.424 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Initializing Servlet ''
+13-07-2020 19:43:23.458 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Completed initialization in 33 ms
+13-07-2020 19:43:23.519 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarted - Started TestCapacitacionMysqlApplicationTests in 5.81 seconds (JVM running for 8.136)
+13-07-2020 19:43:23.571 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT01_CreateUserSuccess_ReturnOkAndAnUser - User_UT01_CreateUserSuccess_ReturnOkAndAnUse
+13-07-2020 19:43:24.222 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT02_UpdateUserSuccess_AgeBD_menor_25 - user_UT02_UpdateUserSuccess_ReturnERROR_User
+13-07-2020 19:43:24.260 [SpringContextShutdownHook] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:45:03.858 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarting - Starting TestCapacitacionMysqlApplicationTests on PSLT3182 with PID 14220 (started by jasanchez in C:\Users\jasanchez\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\testCapacitacionMysql)
+13-07-2020 19:45:03.861 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStartupProfileInfo - The following profiles are active: qa
+13-07-2020 19:45:08.169 [main] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:45:09.079 [main] INFO 
+				o.s.b.t.m.w.SpringBootMockServletContext.log - Initializing Spring TestDispatcherServlet ''
+13-07-2020 19:45:09.080 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Initializing Servlet ''
+13-07-2020 19:45:09.117 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Completed initialization in 37 ms
+13-07-2020 19:45:09.227 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarted - Started TestCapacitacionMysqlApplicationTests in 7.765 seconds (JVM running for 11.349)
+13-07-2020 19:45:09.301 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT01_CreateUserSuccess_ReturnOkAndAnUser - User_UT01_CreateUserSuccess_ReturnOkAndAnUse
+13-07-2020 19:45:10.393 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT02_UpdateUserSuccess_AgeBD_menor_25 - user_UT02_UpdateUserSuccess_ReturnERROR_User
+13-07-2020 19:45:10.434 [SpringContextShutdownHook] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:45:42.011 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarting - Starting TestCapacitacionMysqlApplicationTests on PSLT3182 with PID 1804 (started by jasanchez in C:\Users\jasanchez\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\testCapacitacionMysql)
+13-07-2020 19:45:42.014 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStartupProfileInfo - The following profiles are active: qa
+13-07-2020 19:45:45.224 [main] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:45:45.852 [main] INFO 
+				o.s.b.t.m.w.SpringBootMockServletContext.log - Initializing Spring TestDispatcherServlet ''
+13-07-2020 19:45:45.853 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Initializing Servlet ''
+13-07-2020 19:45:45.897 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Completed initialization in 44 ms
+13-07-2020 19:45:45.967 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarted - Started TestCapacitacionMysqlApplicationTests in 5.422 seconds (JVM running for 7.812)
+13-07-2020 19:45:46.007 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT01_CreateUserSuccess_ReturnOkAndAnUser - User_UT01_CreateUserSuccess_ReturnOkAndAnUse
+13-07-2020 19:45:46.609 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT02_UpdateUserSuccess_AgeBD_menor_25 - user_UT02_UpdateUserSuccess_ReturnERROR_User
+13-07-2020 19:45:46.680 [SpringContextShutdownHook] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:46:14.781 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarting - Starting TestCapacitacionMysqlApplicationTests on PSLT3182 with PID 12048 (started by jasanchez in C:\Users\jasanchez\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\testCapacitacionMysql)
+13-07-2020 19:46:14.784 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStartupProfileInfo - The following profiles are active: qa
+13-07-2020 19:46:17.998 [main] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:46:18.642 [main] INFO 
+				o.s.b.t.m.w.SpringBootMockServletContext.log - Initializing Spring TestDispatcherServlet ''
+13-07-2020 19:46:18.643 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Initializing Servlet ''
+13-07-2020 19:46:18.677 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Completed initialization in 34 ms
+13-07-2020 19:46:18.764 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarted - Started TestCapacitacionMysqlApplicationTests in 5.52 seconds (JVM running for 7.807)
+13-07-2020 19:46:18.815 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT01_CreateUserSuccess_ReturnOkAndAnUser - User_UT01_CreateUserSuccess_ReturnOkAndAnUse
+13-07-2020 19:46:19.355 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT02_UpdateUserSuccess_AgeBD_menor_25 - user_UT02_UpdateUserSuccess_ReturnERROR_User
+13-07-2020 19:46:19.380 [SpringContextShutdownHook] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:47:20.882 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarting - Starting TestCapacitacionMysqlApplicationTests on PSLT3182 with PID 16768 (started by jasanchez in C:\Users\jasanchez\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\testCapacitacionMysql)
+13-07-2020 19:47:20.884 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStartupProfileInfo - The following profiles are active: qa
+13-07-2020 19:47:24.056 [main] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:47:24.629 [main] INFO 
+				o.s.b.t.m.w.SpringBootMockServletContext.log - Initializing Spring TestDispatcherServlet ''
+13-07-2020 19:47:24.630 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Initializing Servlet ''
+13-07-2020 19:47:24.657 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Completed initialization in 27 ms
+13-07-2020 19:47:24.765 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarted - Started TestCapacitacionMysqlApplicationTests in 5.416 seconds (JVM running for 7.984)
+13-07-2020 19:47:24.807 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT01_CreateUserSuccess_ReturnOkAndAnUser - User_UT01_CreateUserSuccess_ReturnOkAndAnUse
+13-07-2020 19:47:25.411 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT02_UpdateUserSuccess_AgeBD_menor_25 - user_UT02_UpdateUserSuccess_ReturnERROR_User
+13-07-2020 19:47:25.474 [SpringContextShutdownHook] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:48:02.759 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarting - Starting TestCapacitacionMysqlApplicationTests on PSLT3182 with PID 1732 (started by jasanchez in C:\Users\jasanchez\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\testCapacitacionMysql)
+13-07-2020 19:48:02.762 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStartupProfileInfo - The following profiles are active: qa
+13-07-2020 19:48:06.011 [main] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.initialize - Initializing ExecutorService 'applicationTaskExecutor'
+13-07-2020 19:48:06.727 [main] INFO 
+				o.s.b.t.m.w.SpringBootMockServletContext.log - Initializing Spring TestDispatcherServlet ''
+13-07-2020 19:48:06.727 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Initializing Servlet ''
+13-07-2020 19:48:06.758 [main] INFO 
+				o.s.t.w.s.TestDispatcherServlet.initServletBean - Completed initialization in 30 ms
+13-07-2020 19:48:06.827 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.logStarted - Started TestCapacitacionMysqlApplicationTests in 5.811 seconds (JVM running for 8.496)
+13-07-2020 19:48:06.886 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT01_CreateUserSuccess_ReturnOkAndAnUser - User_UT01_CreateUserSuccess_ReturnOkAndAnUse
+13-07-2020 19:48:07.444 [main] INFO 
+				c.p.c.TestCapacitacionMysqlApplicationTests.user_UT02_UpdateUserSuccess_AgeBD_menor_25 - user_UT02_UpdateUserSuccess_ReturnERROR_User
+13-07-2020 19:48:07.474 [SpringContextShutdownHook] INFO 
+				o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
